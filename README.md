@@ -1,7 +1,6 @@
 #IssueTracker
 A full stack app, which helps to track issues/bugs for the Project.
-Hoisted Link :https://soumyasri546-github-io-project.onrender.com
-
+Hoisted Link :https://github.com/letslearnhhithub/issueTracker/edit/main/README.md
 
 ### Description
 
